@@ -32,10 +32,10 @@ var song = {
  app.get('/:id', function (req, res) {
     // First read existing users.
     fs.readFile( __dirname + "/" + "song.json", 'utf8', function (err, data) {
-       var users = JSON.parse( data );
-       var user = users["user" + req.params.id] 
-       console.log( user );
-       res.end( JSON.stringify(user));
+       var song = JSON.parse( data );
+       var song = song["song" + req.params.id] 
+       console.log( song );
+       res.end( JSON.stringify(song));
     });
  })
 
