@@ -1,0 +1,36 @@
+{
+    "song1" : {
+       "song" : "ERE",
+       "artist" : "Juan Karlos",
+       "genre" : "OPM",
+       "link": "https://www.youtube.com/watch?v=Ohf3czrhCSY"
+    },
+    
+    "song2" : {
+       "song" : "Demonyo",
+       "artist" : "Juan Karlos",
+       "genre" : "OPM",
+       "link": "https://www.youtube.com/watch?v=iEYR6efkWdE"
+    },
+    
+    "song3" : {
+       "song" : "Gabi",
+       "artist" : "Juan Karlos",
+       "genre" : "OPM",
+       "link": "https://www.youtube.com/watch?v=Rn8V8T_D5mg"
+    },
+
+    "song4" : {
+        "song" : "Tapusin Na Natin",
+        "artist" : "Juan Karlos",
+        "genre" : "OPM",
+        "link": "https://www.youtube.com/watch?v=4RXLaK7-zFg"
+     },
+
+     "song5" : {
+        "song" : "may halaga pa ba ako sayo",
+        "artist" : "Juan Karlos",
+        "genre" : "OPM",
+        "link": "https://www.youtube.com/watch?v=jmt1zD8EGC4"
+     }
+ }
