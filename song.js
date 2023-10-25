@@ -14,7 +14,8 @@ var song = {
        "song" : "Shot Puno",
        "artist" : "Juan Karlos",
        "genre" : "OPM",
-       "link": "https://www.youtube.com/watch?v=sOXXnbS8jmQ"
+       "link": "https://www.youtube.com/watch?v=sOXXnbS8jmQ",
+       "id":"6"
     }
  }
  
